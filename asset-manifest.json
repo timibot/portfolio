@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/timibot/portfolio/static/css/main.f7dad11b.css",
-    "main.js": "/timibot/portfolio/static/js/main.1d81f477.js",
-    "static/js/111.f2071d90.chunk.js": "/timibot/portfolio/static/js/111.f2071d90.chunk.js",
-    "static/media/photo1.png": "/timibot/portfolio/static/media/photo1.4e420b2f7252becfe716.png",
-    "static/media/kidavatar.png": "/timibot/portfolio/static/media/kidavatar.293c41732fe2816f6c92.png",
-    "static/media/photo2.jpg": "/timibot/portfolio/static/media/photo2.3d10abb607d327d4ce81.jpg",
-    "static/media/photo4.jpg": "/timibot/portfolio/static/media/photo4.18fbbe1a08b967ae86f3.jpg",
-    "static/media/photo3.jpg": "/timibot/portfolio/static/media/photo3.677be9290099373aa758.jpg",
-    "index.html": "/timibot/portfolio/index.html",
-    "main.f7dad11b.css.map": "/timibot/portfolio/static/css/main.f7dad11b.css.map",
-    "main.1d81f477.js.map": "/timibot/portfolio/static/js/main.1d81f477.js.map",
-    "111.f2071d90.chunk.js.map": "/timibot/portfolio/static/js/111.f2071d90.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.f7dad11b.css",
+    "main.js": "/portfolio/static/js/main.50a0ddc8.js",
+    "static/js/111.f2071d90.chunk.js": "/portfolio/static/js/111.f2071d90.chunk.js",
+    "static/media/photo1.png": "/portfolio/static/media/photo1.4e420b2f7252becfe716.png",
+    "static/media/kidavatar.png": "/portfolio/static/media/kidavatar.293c41732fe2816f6c92.png",
+    "static/media/photo2.jpg": "/portfolio/static/media/photo2.3d10abb607d327d4ce81.jpg",
+    "static/media/photo4.jpg": "/portfolio/static/media/photo4.18fbbe1a08b967ae86f3.jpg",
+    "static/media/photo3.jpg": "/portfolio/static/media/photo3.677be9290099373aa758.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.f7dad11b.css.map": "/portfolio/static/css/main.f7dad11b.css.map",
+    "main.50a0ddc8.js.map": "/portfolio/static/js/main.50a0ddc8.js.map",
+    "111.f2071d90.chunk.js.map": "/portfolio/static/js/111.f2071d90.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7dad11b.css",
-    "static/js/main.1d81f477.js"
+    "static/js/main.50a0ddc8.js"
   ]
 }
